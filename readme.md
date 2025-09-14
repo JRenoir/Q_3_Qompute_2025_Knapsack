@@ -8,7 +8,7 @@ This repository contains the experiment and results for solving the **37-item Kn
 
 ## Team
 
-Team Name: TAMU for Portfolio Optimization
+Team Name: qm_for_good
 
 Member's Name: Qingtian Miao
 
@@ -122,5 +122,6 @@ Upon completion, the notebook will output:
 1. K. M. Nakanishi, K. Fujii, and S. Todo, “Sequential minimal optimization for quantum-classical hybrid algorithms,” Phys. Rev. Research, vol. 2, p. 043158, 2020. (arXiv:1903.12166).
 
 2. WISER Optimization VG (code repository), https://github.com/bimehta/WISER_Optimization_VG (accessed Sep. 13, 2025).
+
 
 
