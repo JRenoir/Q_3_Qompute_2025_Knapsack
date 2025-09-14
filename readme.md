@@ -4,7 +4,15 @@
 
 This repository contains the experiment and results for solving the **37-item Knapsack Problem** using a Variational Quantum Eigensolver (VQE) for **Q³ Qompute 2025**. The solution formulates the problem as a QUBO, implements a **CVaR-VQE** objective, and uses a lightweight **NFT (Nakanishi-Fujii-Todo)** coordinate optimizer [1, 2] to find the solution.
 
+------
 
+## Team
+
+Team Name: TAMU for Portfolio Optimization
+
+Member's Name: Qingtian Miao
+
+------
 
 ## ✨ Highlights
 
@@ -114,4 +122,5 @@ Upon completion, the notebook will output:
 1. K. M. Nakanishi, K. Fujii, and S. Todo, “Sequential minimal optimization for quantum-classical hybrid algorithms,” Phys. Rev. Research, vol. 2, p. 043158, 2020. (arXiv:1903.12166).
 
 2. WISER Optimization VG (code repository), https://github.com/bimehta/WISER_Optimization_VG (accessed Sep. 13, 2025).
+
 
